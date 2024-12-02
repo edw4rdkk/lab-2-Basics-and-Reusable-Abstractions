@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
 // Define variable to store your name as a string
 
-let name = undefined;
+let name = "JavaScript";
 
 module.exports = { name };
