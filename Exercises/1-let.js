@@ -2,6 +2,6 @@
 
 // Define variable to store your name as a string
 
-let name = "JavaScript";
+let name = "JavaScriptUser ";
 
 module.exports = { name };
